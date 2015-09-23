@@ -1,0 +1,18 @@
+<map version="0.9.0">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1442233201618" ID="ID_134400684" MODIFIED="1442812480999" TEXT="&#x540d;&#x8a00;">
+<node CREATED="1442233259513" ID="ID_440421788" MODIFIED="1442233262168" POSITION="right" TEXT="TODO">
+<node CREATED="1442233264239" ID="ID_1473846125" MODIFIED="1442233269830" TEXT="&#x30b5;&#x30fc;&#x30d3;&#x30b9;&#x540d;&#x306e;&#x6c7a;&#x5b9a;"/>
+</node>
+<node CREATED="1442233306354" ID="ID_879161373" MODIFIED="1442233309940" POSITION="right" TEXT="&#x7af6;&#x5408;&#x30b5;&#x30a4;&#x30c8;">
+<node CREATED="1442233310984" ID="ID_1216961709" MODIFIED="1442233320520" TEXT="http://www.fesh.jp/">
+<node CREATED="1442233389163" ID="ID_1174420093" MODIFIED="1442233394710" TEXT="&#x81ea;&#x5206;&#x3067;&#x6295;&#x7a3f;&#x306f;&#x3055;&#x305b;&#x306a;&#x3044;"/>
+</node>
+<node CREATED="1442233321511" ID="ID_19447856" MODIFIED="1442233330209" TEXT="http://onequote.org/"/>
+</node>
+<node CREATED="1442233331460" ID="ID_361896653" MODIFIED="1442233333777" POSITION="right" TEXT="&#x53c2;&#x8003;&#x30b5;&#x30a4;&#x30c8;">
+<node CREATED="1442233353832" ID="ID_910659385" MODIFIED="1442812457230" TEXT="http://internet.watch.impress.co.jp/docs/news/20121218_579197.html"/>
+<node CREATED="1442233361928" HGAP="22" ID="ID_751024132" MODIFIED="1442233424511" TEXT="http://www.kaigaidrama.jp/"/>
+</node>
+</node>
+</map>

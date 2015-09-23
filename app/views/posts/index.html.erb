@@ -1,0 +1,14 @@
+<h1>努力の名言100</h1>
+<div id="grid-content">
+  <% @posts.each do |post| %>
+    <%= link_to(post_path(post.id)) do %>
+    <div>
+    <h3><%= post.content %></h3>
+    <p><%= post.author %></p>
+    <!-- FIXME div全体にリンクをはる. -->
+    <%#= link_to 'Show', post_path(post.id) %>
+    </div>
+    <% end %>
+  <% end %>
+</div>
+
