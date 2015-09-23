@@ -13,4 +13,9 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+
+//= require darkly/loader
+//= require darkly/bootswatch
+
+// javascripts配下にあるjsファイルを読み込む設定
 //= require_tree .
